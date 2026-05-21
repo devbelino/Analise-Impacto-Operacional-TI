@@ -3,7 +3,7 @@ Cenário e Problema de Negócio: Solicitações de alteração de horários eram
 
 ![Visão geral do DASHBOARD](https://github.com/user-attachments/assets/ade4fc6d-2e57-4101-a350-e42912427ff1)
 
-Ação de Negócio (Impacto): Propus a implementação de formulários estruturados (campos obrigatórios) para blindar o sistema na entrada. O resultado foi zerar o gargalo inicial de comunicação, devolvendo horas úteis à equipe de TI e reduzindo custos operacionais.
+Ação de Negócio (Impacto): Propus a implementação de formulários estruturados (campos obrigatórios) para blindar o sistema na entrada. Como resultado foi zerar o gargalo inicial de comunicação, devolvendo horas úteis à equipe de TI e reduzindo custos operacionais.
 
 Processo de Análise (ETL)
 Realizei a extração da base histórica de tickets e apliquei uma amostragem qualitativa, transformando textos livres e despadronizados em categorias de problemas quantificáveis. Após a limpeza, os dados foram carregados e modelados no Power BI.
