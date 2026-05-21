@@ -1,7 +1,5 @@
 # 📊 Otimização de SLA em Chamados de TI
 
----
-
 ## Cenário e Problema de Negócio: 
 ### Solicitações de alteração de horários eram abertas em formato de texto livre e com informações incompletas. Isso gerava um intenso gargalo de comunicação (vai e volta de e-mails), resultando em atrasos de dias no SLA da TI e desperdício de horas úteis.
 
