@@ -9,7 +9,8 @@ Propus a implementação de formulários estruturados (campos obrigatórios) par
 # Processo de Análise (ETL)
 Realizei a extração da base histórica de tickets e apliquei uma amostragem qualitativa, transformando textos livres e despadronizados em categorias de problemas quantificáveis. Após a limpeza, os dados foram carregados e modelados no Power BI.
 
-# Mapeamento: O painel revelou quais setores mais erravam, permitindo direcionar treinamentos.
+# Mapeamento
+O painel revelou quais setores mais erravam, permitindo direcionar treinamentos.
 
 # Arquitetura e Ferramentas
 Excel: Tratamento inicial e exploração de logs não estruturados.
